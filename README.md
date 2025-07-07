@@ -29,8 +29,8 @@ This Python project captures real-time video input, detects your hand landmarks 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/hand-gesture-volume-control.git
-   cd hand-gesture-volume-control
+   git clone https://github.com/Adnaan-786/Volume-Control.git
+   cd volume-control
 
 	2.	Install dependencies
 
